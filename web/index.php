@@ -1,3 +1,6 @@
-<?php
-
-echo "Hello Surabaya";
+<html>
+    <?php
+    $hello = "Hello Now";
+    echo $hello; 
+    ?>
+</html>
